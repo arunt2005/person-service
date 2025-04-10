@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: person-service
+
+server:
+  port: 1000
+  servlet:
+    context-path: person-service
+
